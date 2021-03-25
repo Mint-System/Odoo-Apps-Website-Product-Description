@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Account Invoice Description",
+    'name': "Website Product Description",
 
     'summary': """
         Add separate description field to website product view.
